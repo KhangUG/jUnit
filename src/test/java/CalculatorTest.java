@@ -1,6 +1,7 @@
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import org.example.Calculator;
+// Đây là lớp bộ kiểm tra JUnit cho lớp Calculator.
 public class CalculatorTest {
     private Calculator calculator = new Calculator();
 
